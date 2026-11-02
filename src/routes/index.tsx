@@ -20,7 +20,7 @@ export const Route = createFileRoute("/")({
 });
 
 const WHATSAPP_URL =
-  "https://wa.me/5500000000000?text=" +
+  "https://wa.me/5511982261412?text=" +
   encodeURIComponent("Olá! Quero falar com um consultor e ativar o Plano Pro 💠 do AGENTEX.");
 
 type Perfil = "Importador" | "Exportador";
