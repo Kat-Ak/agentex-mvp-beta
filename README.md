@@ -1,26 +1,37 @@
-# Agentex Mvp Beta
+# 🌐 Agentex Mvp Beta | Repositório Técnico (Código-Fonte)
 
-Implement exactly the screenshot and nothing else
+Este repositório armazena a estrutura técnica, dependências e código-fonte bruto da aplicação **AGENTEX**, gerados de forma automatizada via IA na plataforma Lovable para fins de avaliação e validação de mercado.
 
-This project was built with [Lovable](https://lovable.dev).
+## 📇 Propriedade e Direitos Autorais
 
-**Live app**: https://agentex-mvp-beta.lovable.app
+* **Autoria e Direitos:** Todos os direitos intelectuais, lógicos e de design de interface sobre esta aplicação pertencem exclusivamente à autora ℹ️ Conheça meu [Perfil Geral](https://github.com/Kat-Ak).
+* **Finalidade:** Repositório público voltado à auditoria de código para o Bootcamp Santander/DIO, análise de engenharia de prompts e portfólio profissional de soluções digitais.
 
-## Build with Lovable
+## 🛑 Termos de Uso e Permissões
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/b2f7bd04-034f-4535-a998-ae6f92dd0466).
+* **Permitido (Fork para Estudo):** É permitido realizar o *Fork* deste repositório para fins de estudo pessoal, análise de engenharia de prompts, arquitetura No-Code e aprendizado AI.
+* **Modificações Diretas:** Nenhuma alteração direta de código de terceiros será integrada de forma automática neste repositório original, garantindo a estabilidade da versão avaliada no bootcamp.
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+## 🎨 Identidade Gráfica & Acervo Visual
 
-## Development
+A narrativa visual das telas, paleta de cores corporativa e a blocagem de componentes do AGENTEX fazem parte da minha identidade visual autoral. 
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+Caso tenha interesse em conhecer os bastidores da criação, conceitos estéticos e o acervo completo de mídias estruturadas por calibragem de IA que moldam o meu portfólio, acesse o meu repositório central:
+👉 **[🌌 Hub Panorâmico Visual](https://github.com/Kat-Ak/HUB-visual)**
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+## 🤝 Quer Contribuir com Sugestões ou Melhorias?
+
+Se você descobriu uma interface que combina com a proposta do AGENTEX, ou tem ideias de novos recursos, automações e evoluções para o comércio exterior, **abra uma Issue**! Será um prazer estudar a possibilidade de implantar, agregar, revisar e, se necessário, analisarmos juntos a viabilidade da sua sugestão.
+
+Para enviar sua sugestão:
+1. Vá até a aba **[Issues](https://github.com)** no menu superior deste repositório.
+2. Clique no botão **"New Issue"** (Nova Discussão).
+3. Descreva a sua sugestão ou melhoria para iniciarmos uma análise estratégica de negócios!
+
+*Nota de Segurança:* Para garantir a estabilidade do MVP avaliado no bootcamp, as contribuições de código via *Pull Requests* estão desativadas, garantindo a integridade do software.
+
+---
+<div align="center">
+Desenvolvido com foco em Comércio Exterior e Produtividade B2B.
+</div>
+
