@@ -2,7 +2,7 @@
 
 Este repositório armazena a estrutura técnica, dependências e código-fonte bruto da aplicação **AGENTEX**, gerados de forma automatizada via IA na plataforma Lovable para fins de avaliação e validação de mercado.
 
-## 📇 Propriedade e Direitos Autorais
+## 🆔 Propriedade e Direitos Autorais
 
 * **Autoria e Direitos:** Todos os direitos intelectuais, lógicos e de design de interface sobre esta aplicação pertencem exclusivamente à autora 
 [Kat-Ak](https://github.com/Kat-Ak/HUB-visual/blob/0af3be9fa12c01a10c44203c9bc0c2bfd0709f42/banners-perfil/avatar-perfil-precisao_e_equilibrio_v9.png).
@@ -18,9 +18,9 @@ Este repositório armazena a estrutura técnica, dependências e código-fonte b
 A narrativa visual das telas, paleta de cores corporativa e a blocagem de componentes do AGENTEX fazem parte da minha identidade visual autoral. 
 
 Caso tenha interesse em conhecer os bastidores da criação, conceitos estéticos e o acervo completo de mídias estruturadas por calibragem de IA que moldam o meu portfólio, acesse o meu repositório central:
-👉 **[🌌 Hub Panorâmico Visual](https://github.com/Kat-Ak/HUB-visual)**
+▶ **[🌌 Hub Panorâmico Visual](https://github.com/Kat-Ak/HUB-visual)**
 
-## 🤝 Quer Contribuir com Sugestões ou Melhorias?
+## 💡 Quer Contribuir com Sugestões ou Melhorias?
 
 Se você descobriu uma interface que combina com a proposta do AGENTEX, ou tem ideias de novos recursos, automações e evoluções para o comércio exterior, **abra uma Issue**! Será um prazer estudar a possibilidade de implantar, agregar, revisar e, se necessário, analisarmos juntos a viabilidade da sua sugestão.
 
