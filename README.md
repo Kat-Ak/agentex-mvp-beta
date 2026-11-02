@@ -4,7 +4,7 @@ Este repositório armazena a estrutura técnica, dependências e código-fonte b
 
 ## 📇 Propriedade e Direitos Autorais
 
-* **Autoria e Direitos:** Todos os direitos intelectuais, lógicos e de design de interface sobre esta aplicação pertencem exclusivamente à autora ℹ️ Conheça meu [Perfil Geral](https://github.com/Kat-Ak).
+* **Autoria e Direitos:** Todos os direitos intelectuais, lógicos e de design de interface sobre esta aplicação pertencem exclusivamente à autora(Kat-Ak) (ℹ️ conheça meu [Perfil Geral](https://github.com/Kat-Ak)).
 * **Finalidade:** Repositório público voltado à auditoria de código para o Bootcamp Santander/DIO, análise de engenharia de prompts e portfólio profissional de soluções digitais.
 
 ## 🛑 Termos de Uso e Permissões
