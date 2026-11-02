@@ -36,3 +36,25 @@ Para enviar sua sugestão:
 Desenvolvido com foco em Comércio Exterior e Produtividade B2B.
 </div>
 
+---
+
+---
+<div align="center">
+
+**Foco: Clareza | Precisão | Organização**
+
+<hr style="height:1px;border:none;color:#333;background-color:#e2e8f0;" />
+
+🔙 [🗄️ HUB PRINCIPAL | Projetos & Soluções](https://github.com/Kat-Ak/HUB-principal-projetos_e_solucoes) &nbsp;•&nbsp; ⚖️ *Idealização & Estruturação* [[Katia Harumi Akamoto](https://github.com/Kat-Ak)] &nbsp;•&nbsp; ℹ️ [GitHub](https://github.com/Kat-Ak) | [LinkedIn](https://linkedin.com) | [DIO](https://dio.me)
+
+</div>
+
+---
+
+---
+
+> 🔙 [🗄️ HUB PRINCIPAL | Projetos & Soluções](https://github.com/Kat-Ak/HUB-principal-projetos_e_solucoes)  
+> ⚖️ *Idealização & Estruturação:* [Katia Harumi Akamoto]  
+> ℹ️ [Perfil Geral](https://github.com/Kat-Ak) &bull; [GitHub](https://github.com/Kat-Ak) &bull; [LinkedIn](https://linkedin.com) &bull; [DIO](https://dio.me)
+
+---
