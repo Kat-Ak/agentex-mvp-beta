@@ -97,7 +97,7 @@ function Dashboard() {
   }, []);
 
   const save = async (id: string, field: "entregas_pendentes" | "lembrete_retorno", value: string) => {
-    const { error } = await supabase.from("leads").update({ [field]: value }).eq("id", id);
+    const { error } = await supabase.from("leads").update(field === "entregas_pendentes" ? { entregas_pendentes: value } : { lembrete_retorno: value }).eq("id", id);
     if (error) toast.error("Erro ao salvar");
     else toast.success("Salvo");
   };

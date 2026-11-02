@@ -70,7 +70,7 @@ function Index() {
 
   const submitBeta = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (!nome.trim() || !contato.trim()) return toast.error("Preencha nome e contato.");
+    if (!nome.trim() || !contato.trim()) { toast.error("Preencha nome e contato."); return; }
     setSending(true);
     const { error } = await supabase.from("leads").insert({
       session_id: getSessionId(),
@@ -79,7 +79,7 @@ function Index() {
       perfil,
     });
     setSending(false);
-    if (error) return toast.error("Não foi possível enviar. Tente novamente.");
+    if (error) { toast.error("Não foi possível enviar. Tente novamente."); return; }
     track("Acesso antecipado Beta (formulário enviado)", perfil);
     toast.success("Obrigado! Você está na lista de acesso antecipado.");
     setBetaOpen(false);
