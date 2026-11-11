@@ -58,3 +58,25 @@ Desenvolvido com foco em Comércio Exterior e Produtividade B2B.
 > ℹ️ [Perfil Geral](https://github.com/Kat-Ak) &bull; [GitHub](https://github.com/Kat-Ak) &bull; [LinkedIn](https://linkedin.com) &bull; [DIO](https://dio.me)
 
 ---
+---
+<div align="center">
+
+**Foco: Clareza | Precisão | Organização**
+
+<hr style="height:1px;border:none;color:#333;background-color:#e2e8f0;" />
+
+🔙 [🗄️ HUB PRINCIPAL | Projetos & Soluções](https://github.com/Kat-Ak/HUB-principal-projetos_e_solucoes) <br>
+⚖️ *Idealização & Estruturação* [[Katia Harumi Akamoto](https://github.com/Kat-Ak)] &nbsp; &nbsp;&&nbsp; | &nbsp; [LinkedIn](https://linkedin.com) &nbsp;•&nbsp; [DIO](https://dio.me)
+
+</div>
+
+---
+
+---
+
+> 🔙 [🗄️ HUB PRINCIPAL | Projetos & Soluções](https://github.com/Kat-Ak/HUB-principal-projetos_e_solucoes) <br>
+> ⚖️ *Idealização & Estruturação*</b> <img src="./banners-perfil/avatar-perfil-precisao_e_equilibrio_v9.png" alt="Avatar Perfil Precisão & Equilíbrio" alt="Kat-Ak" height="30"> <b> <a href="https://github.com/Kat-Ak"> <[Katia Harumi Akamoto](https://github.com/Kat-Ak)> <br>
+
+> </b> <img src="./banners-perfil/avatar-perfil-precisao_e_equilibrio_v9.png" alt="Avatar Perfil Precisão & Equilíbrio" alt="Kat-Ak" height="30"> <b> <a href="https://github.com/Kat-Ak">[Katia Harumi Akamoto]
+> 
+> ℹ️ &nbsp; <a href="https://github.com/Kat-Ak" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/GitHub-logo.png?raw=true" alt="GitHub" height="25"></a> &nbsp;<a href="https://www.linkedin.com/in/katia-akamoto-home-office" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/Linkedin-in-logo.png?raw=true" alt="LinkedIn" height="25"></a>&nbsp;<a href="https://web.dio.me/users/katiaakamoto" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/Dio-logo.png?raw=true" alt="DIO" height="25"></a>
