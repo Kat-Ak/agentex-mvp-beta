@@ -71,10 +71,9 @@ Desenvolvido com foco em Comércio Exterior e Produtividade B2B.
 </div>
 
 ---
-
+[[banners-perfil/avatar-perfil-precisao_e_equilibrio_v9.png](https://github.com/Kat-Ak)](https://github.com/Kat-Ak/HUB-visual/blob/main/banners-perfil/avatar-perfil-precisao_e_equilibrio_v9.png)
 ---
 
 > 🔙 [🗄️ HUB PRINCIPAL | Projetos & Soluções](https://github.com/Kat-Ak/HUB-principal-projetos_e_solucoes) <br>
-> ⚖️ *Idealização & Estruturação* &nbsp; </b> <img src="./banners-perfil/avatar-perfil-precisao_e_equilibrio_v9.png" alt="Avatar Perfil Precisão & Equilíbrio" alt="Kat-Ak" height="25"> <b>
->
+> ⚖️ *Idealização & Estruturação* &nbsp; </b> <img src="./[HUB-visual/banners-perfil/avatar-perfil-precisao_e_equilibrio_v9.png](https://github.com/Kat-Ak/HUB-visual/blob/0af3be9fa12c01a10c44203c9bc0c2bfd0709f42/banners-perfil/avatar-perfil-precisao_e_equilibrio_v9.png)" alt="Avatar Perfil Precisão & Equilíbrio" alt="Kat-Ak" height="20"> <b>
 > <a href="https://github.com/Kat-Ak" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/GitHub-logo.png?raw=true" alt="GitHub" height="25"></a> &nbsp;<a href="https://www.linkedin.com/in/katia-akamoto-home-office" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/Linkedin-in-logo.png?raw=true" alt="LinkedIn" height="25"></a>&nbsp;<a href="https://web.dio.me/users/katiaakamoto" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/Dio-logo.png?raw=true" alt="DIO" height="25"></a>
