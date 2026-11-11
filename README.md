@@ -75,8 +75,6 @@ Desenvolvido com foco em Comércio Exterior e Produtividade B2B.
 ---
 
 > 🔙 [🗄️ HUB PRINCIPAL | Projetos & Soluções](https://github.com/Kat-Ak/HUB-principal-projetos_e_solucoes) <br>
-> ⚖️ *Idealização & Estruturação*</b> <img src="./banners-perfil/avatar-perfil-precisao_e_equilibrio_v9.png" alt="Avatar Perfil Precisão & Equilíbrio" alt="Kat-Ak" height="30"> <b> <a href="https://github.com/Kat-Ak"> <[Katia Harumi Akamoto](https://github.com/Kat-Ak)> <br>
-
-### Idealização & Estruturação:</b> <img src="./banners-perfil/avatar-perfil-precisao_e_equilibrio_v9.png" alt="Avatar Perfil Precisão & Equilíbrio" alt="Kat-Ak" height="30"> <b> <a href="https://github.com/Kat-Ak">[Katia Harumi Akamoto]
-> 
-> ℹ️ &nbsp; <a href="https://github.com/Kat-Ak" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/GitHub-logo.png?raw=true" alt="GitHub" height="25"></a> &nbsp;<a href="https://www.linkedin.com/in/katia-akamoto-home-office" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/Linkedin-in-logo.png?raw=true" alt="LinkedIn" height="25"></a>&nbsp;<a href="https://web.dio.me/users/katiaakamoto" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/Dio-logo.png?raw=true" alt="DIO" height="25"></a>
+> ⚖️ *Idealização & Estruturação* &nbsp; </b> <img src="./banners-perfil/avatar-perfil-precisao_e_equilibrio_v9.png" alt="Avatar Perfil Precisão & Equilíbrio" alt="Kat-Ak" height="25"> <b>
+>
+> <a href="https://github.com/Kat-Ak" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/GitHub-logo.png?raw=true" alt="GitHub" height="25"></a> &nbsp;<a href="https://www.linkedin.com/in/katia-akamoto-home-office" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/Linkedin-in-logo.png?raw=true" alt="LinkedIn" height="25"></a>&nbsp;<a href="https://web.dio.me/users/katiaakamoto" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/Dio-logo.png?raw=true" alt="DIO" height="25"></a>
